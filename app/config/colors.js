@@ -1,0 +1,18 @@
+export default {
+    primary: '#38B24A',
+    primary1: 'rgba(48,169,57)',
+    black: '#000000',
+    white: '#ffffff',
+    bgColor: '#EDEAE3',
+    bgTextInput: '#FBF8F2',
+    // borderColor: '#F1E7D2',
+    borderColor: 'rgba(56,174,75,0.2)',
+    medium: '#6e6969',
+    dark: '#0c0c0c',
+    //itemBgColor: '#D9DFE2',
+    lightColor: '#FAF7F0',
+    lightGray: '#D3D3D3',
+    itemBgColor: 'rgba(239,239,239,1)',
+    shadowColor: 'rgba(36,40,96,1)',
+    newborderColor: 'rgba(56,174,75,0.1)',
+}
